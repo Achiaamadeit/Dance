@@ -1,0 +1,8 @@
+body{
+    background-color:rgb(245, 234, 221);
+  }
+  hr{
+    border-style: none;
+    border border-top-style: dotted;
+    border-color:grey;
+  }
